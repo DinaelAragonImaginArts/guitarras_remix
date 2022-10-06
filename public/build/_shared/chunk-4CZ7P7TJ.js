@@ -1,0 +1,1 @@
+import{b as n}from"/build/_shared/chunk-B7AP56NU.js";var r=n((c,e)=>{e.exports={}});var s=t=>{let o=new Date(t),a={year:"numeric",month:"long",day:"2-digit"};return o.toLocaleDateString("es-ES",a)};export{r as a,s as b};
